@@ -1,4 +1,6 @@
-import net
-import ui
+import sjöfn.ui
+import sjöfn.net
 
-print("hello Sjöfn")
+
+if __name__ == "__main__":
+    print("hello Sjöfn")
